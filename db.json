@@ -1,0 +1,244 @@
+{
+    "dataset": [
+        {
+            "filters": [
+                "s1",
+                "s2",
+                "s3",
+                "s4"
+            ],
+            "data": [
+                {
+                    "name": "Verla",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Ermengarde",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Ellette",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Valera",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Edee",
+                    "due": false,
+                    "status": 4
+                },
+                {
+                    "name": "Calla",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Luci",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Kalina",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Ada",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Ardenia",
+                    "due": false,
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "filters": [
+                "s1",
+                "s2",
+                "s3",
+                "s4"
+            ],
+            "data": [
+                {
+                    "name": "Karena",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Janis",
+                    "due": true,
+                    "status": 4
+                },
+                {
+                    "name": "Brandise",
+                    "due": true,
+                    "status": 4
+                },
+                {
+                    "name": "Lonnie",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Emylee",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Zaria",
+                    "due": false,
+                    "status": 4
+                },
+                {
+                    "name": "Ofilia",
+                    "due": true,
+                    "status": 4
+                },
+                {
+                    "name": "Gwyneth",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Camile",
+                    "due": true,
+                    "status": 1
+                },
+                {
+                    "name": "Chrystel",
+                    "due": true,
+                    "status": 4
+                }
+            ]
+        },
+        {
+            "filters": [
+                "s1",
+                "s2",
+                "s3",
+                "s4"
+            ],
+            "data": [
+                {
+                    "name": "Sidoney",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Kary",
+                    "due": false,
+                    "status": 3
+                },
+                {
+                    "name": "Margarette",
+                    "due": false,
+                    "status": 3
+                },
+                {
+                    "name": "Ezmeralda",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Katharina",
+                    "due": false,
+                    "status": 3
+                },
+                {
+                    "name": "Sam",
+                    "due": true,
+                    "status": 1
+                },
+                {
+                    "name": "Taffy",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Tera",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Ekaterina",
+                    "due": false,
+                    "status": 4
+                },
+                {
+                    "name": "Myrtice",
+                    "due": false,
+                    "status": 3
+                }
+            ]
+        },
+        {
+            "filters": [
+                "s1",
+                "s2",
+                "s3",
+                "s4"
+            ],
+            "data": [
+                {
+                    "name": "Chere",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Aurore",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Fawne",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Lory",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Livvyy",
+                    "due": true,
+                    "status": 4
+                },
+                {
+                    "name": "Lynde",
+                    "due": true,
+                    "status": 3
+                },
+                {
+                    "name": "Hallie",
+                    "due": false,
+                    "status": 2
+                },
+                {
+                    "name": "Netty",
+                    "due": true,
+                    "status": 2
+                },
+                {
+                    "name": "Morganica",
+                    "due": false,
+                    "status": 1
+                },
+                {
+                    "name": "Genevra",
+                    "due": false,
+                    "status": 3
+                }
+            ]
+        }
+    ]
+}
