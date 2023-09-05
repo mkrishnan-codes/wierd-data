@@ -1,11 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T10:39:26.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="98ado2gX6wvoFS3zIEAx" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T11:05:43.809Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yngxd3pwKHByOyMxxfiL" version="21.7.2" type="github">
   <diagram name="Page-1" id="TjpR011v5aBsaSwKMzpJ">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l1AS50-YscB8b6UogzsJ-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Apartments.svg;" vertex="1" parent="1">
+        <mxCell id="l1AS50-YscB8b6UogzsJ-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Apartments.svg;" parent="1" vertex="1">
           <mxGeometry x="414" y="780" width="54" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="788" y="730" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="502" y="400" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="286" y="500" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Hosur Railway station&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Attibele checkpost&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Madiwala/St john&#39;s med college bus stop&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.574;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446.97399999999993" y="781.9949999999999" as="sourcePoint" />
+            <mxPoint x="609.9979999999998" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499.99" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1H9vX2QHjz_ne66gL6j6-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="792" as="sourcePoint" />
+            <mxPoint x="630" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.417;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="810" as="sourcePoint" />
+            <mxPoint x="518" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="820" as="sourcePoint" />
+            <mxPoint x="606" y="643" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.963;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="822" as="sourcePoint" />
+            <mxPoint x="800" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.625;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.708;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="857" as="sourcePoint" />
+            <mxPoint x="260" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Location.svg;" vertex="1" parent="1">
+          <mxGeometry x="246" y="797" width="24.23" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sarjapur&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="820" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1AS50-YscB8b6UogzsJ-1" target="1H9vX2QHjz_ne66gL6j6-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="840" as="sourcePoint" />
+            <mxPoint x="37" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Wonderwall Apartments, Sompura, Sarjapura&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="885" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-25" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;23 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-26" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;12 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-27" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;20 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="426" y="470" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-28" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;20 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Majestic, (KSR Bengaluru) Railway station&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;K R Puram (Krishnarajapuram) Railway station&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Whitefield Railway station&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727" y="760" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Carmelaram Railway station&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-33" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;26 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="700" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-34" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;18 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="730" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-35" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 14px;&quot;&gt;10 KMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="502" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1H9vX2QHjz_ne66gL6j6-36" value="&lt;font color=&quot;#660033&quot; style=&quot;font-size: 15px;&quot;&gt;1.8 KM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
